@@ -10,6 +10,6 @@
 
 ## Nota 2/2/2025
 
-- [ ] Cambiar carpetas a link components, sacar client state
+- [x] Cambiar carpetas a link components, sacar client state
 - [ ] Limpiar db y fetching patterns
 - [ ] Home real
