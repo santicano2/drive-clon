@@ -5,11 +5,12 @@
 - [x] Configurar database y modelos
 - [x] Mover carpetas a URL
 - [x] Añadir autenticacíon
-- [ ] Añadir subir archivos
+- [x] Añadir subir archivos
 - [ ] Analytics
 
-## Nota 2/2/2025
+## Nota 3/2/2025
 
-- [x] Cambiar carpetas a link components, sacar client state
-- [x] Limpiar db y fetching patterns
 - [ ] Home real
+- [ ] Subir archivos a la carpeta correcta
+- [ ] Borrar archivos boton
+- [ ] Permitir archivos que no son imagenes
