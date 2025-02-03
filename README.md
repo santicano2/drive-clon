@@ -4,7 +4,7 @@
 
 - [x] Configurar database y modelos
 - [x] Mover carpetas a URL
-- [ ] Añadir autenticacíon
+- [x] Añadir autenticacíon
 - [ ] Añadir subir archivos
 - [ ] Analytics
 
