@@ -7,11 +7,5 @@
 - [x] Añadir autenticacíon
 - [x] Añadir subir archivos
 - [ ] Analytics
-
-## Nota 4/2/2025
-
-- [x] Añadir "owneship" a archivos y carpetas
-- [x] Subir archivos a la carpeta correcta
-- [x] Permitir archivos que no son imagenes
-- [ ] Borrar archivos boton
-- [ ] Home real
+- [ ] Añadir borrar
+- [ ] Real homepage
