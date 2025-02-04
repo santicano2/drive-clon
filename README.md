@@ -12,6 +12,6 @@
 
 - [x] Añadir "owneship" a archivos y carpetas
 - [x] Subir archivos a la carpeta correcta
+- [x] Permitir archivos que no son imagenes
 - [ ] Borrar archivos boton
-- [ ] Permitir archivos que no son imagenes
 - [ ] Home real
