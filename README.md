@@ -8,7 +8,7 @@
 - [x] Añadir subir archivos
 - [ ] Analytics
 
-## Nota 3/2/2025
+## Nota 4/2/2025
 
 - [ ] Home real
 - [ ] Subir archivos a la carpeta correcta
