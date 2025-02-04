@@ -6,6 +6,6 @@
 - [x] Mover carpetas a URL
 - [x] Añadir autenticacíon
 - [x] Añadir subir archivos
-- [ ] Analytics
+- [x] Analytics
 - [ ] Añadir borrar
 - [ ] Real homepage
