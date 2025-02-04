@@ -10,7 +10,8 @@
 
 ## Nota 4/2/2025
 
-- [ ] Home real
-- [ ] Subir archivos a la carpeta correcta
+- [x] Añadir "owneship" a archivos y carpetas
+- [x] Subir archivos a la carpeta correcta
 - [ ] Borrar archivos boton
 - [ ] Permitir archivos que no son imagenes
+- [ ] Home real
