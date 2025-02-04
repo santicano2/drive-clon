@@ -7,5 +7,6 @@
 - [x] Añadir autenticacíon
 - [x] Añadir subir archivos
 - [x] Analytics
+- [x] Ordenar consistente
 - [ ] Añadir borrar
 - [ ] Real homepage
