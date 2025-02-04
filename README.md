@@ -8,5 +8,11 @@
 - [x] Añadir subir archivos
 - [x] Analytics
 - [x] Ordenar consistente
-- [ ] Añadir borrar
+- [x] Borrar archivos
 - [ ] Real homepage
+
+### TODO LATER
+
+- [ ] Borrar carpetas
+
+Make sure you fetch all of the folders that have it as a parent, and their children too
